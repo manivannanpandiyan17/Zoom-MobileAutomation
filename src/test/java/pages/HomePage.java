@@ -13,7 +13,7 @@ public class HomePage extends LibraryFunctions {
 
 	// Launch Application
 	public void launchApplication() throws IOException, InterruptedException {
-		System.out.println("Launched the app successfully");
+		System.out.println("Launched the app");
 	}
 
 	// Tap on join meeting button

@@ -13,5 +13,5 @@ To execute the test from eclipse, right click on the TestRunner.Java file and ru
 
 To execute in cmd, navigate to the POM file directory and run the command as mvn clean install
 
-Tests will run successfully and reports will be generated in its respective directory
+Tests will run successfully and reports will be generated in its respective directory.
 

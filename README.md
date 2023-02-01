@@ -10,7 +10,7 @@ Test cases are provided in a Feature file under src/test and have followed page 
 
 Library functions class under src/main has all setup method and other appium wrapper methods
 
-Extent report will be generated in the HTML Format after each run
+Extent report will be generated in the HTML Format after each run.
 
 # Execute test
 

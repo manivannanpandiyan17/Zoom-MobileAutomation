@@ -22,5 +22,5 @@ To execute in cmd, navigate to the POM file directory and run the command as mvn
 
 Also, Jenkins job is created to trigger the build whenever a change is made to the code
 
-Tests will run successfully and reports will be generated in its respective directory
+Tests will run successfully and reports will be generated in its respective directory.
 
